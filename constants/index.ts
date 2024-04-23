@@ -8,13 +8,13 @@ export const sidebarLinks = [
     {
         label: 'Upcoming',
         route: '/upcoming',
-        imgUrl: '/icons/Upcoming.svg'
+        imgUrl: '/icons/calendar-1-svgrepo-com.svg'
     },
 
     {
         label: 'Previous',
         route: '/previous',
-        imgUrl: '/icons/Previous.svg'
+        imgUrl: '/icons/previous-1-svgrepo-com.svg'
     },
 
     {
@@ -31,9 +31,6 @@ export const sidebarLinks = [
 ]
 
 export const avatarImages = [
-    '/images/avatar-1.jpeg',
-    '/images/avatar-2.jpeg',
-    '/images/avatar-3.png',
-    '/images/avatar-4.png',
-    '/images/avatar-5.png'
+    '/images/download.png',
+    '/images/download.png'
 ]

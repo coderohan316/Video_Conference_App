@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "ConCat",
   description: "Video Calling App",
   icons: {
-    icon: '/icons/logo.svg'
+    icon: '/icons/image.png'
   }
 };
 
